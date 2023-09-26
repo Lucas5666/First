@@ -1,0 +1,6 @@
+using System;
+namespace exercise{
+    class hhh{
+        System.Console.WriteLine("Hello World");
+    }
+}
